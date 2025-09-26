@@ -8,9 +8,9 @@ function App() {
 
   return (
     <div className='grid-container'>
-      <Header></Header>
-      <Sidebar></Sidebar>
-      <Home></Home>
+      <Header />
+      <Sidebar />
+      <Home />
     </div>
   )
 }
